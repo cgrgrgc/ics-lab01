@@ -31,8 +31,8 @@ Meow: https://scratch.mit.edu/projects/1387174174
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: (https://scratch.mit.edu/projects/1387379566)
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+(This program makes the cat move and dance across the screen, and it meows when I press the space key. It uses a custom meow block, a count variable, a forever loop, an if condition, and a space key event.)
